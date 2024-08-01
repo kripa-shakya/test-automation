@@ -21,3 +21,4 @@ Part 2
 6. Write a Java program to find the sum of the digits of a number using a loop.
 7. Write a Java program to find the average of n numbers using a loop.
 8. Do as many patterns as you can
+9. Write a Java program to find whether the entered number is perfect or not.
